@@ -1,0 +1,11 @@
+.big{
+    transform: scale(1);
+    color:blue;
+    transition: scale 300ms;
+}
+.small {
+    transform: scale(0.5);
+    color: red;
+    transition: scale 300ms;
+
+}
